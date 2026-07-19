@@ -1,1 +1,2 @@
-# Simply-C
+# Simply-C++
+This is for C++ practice.
